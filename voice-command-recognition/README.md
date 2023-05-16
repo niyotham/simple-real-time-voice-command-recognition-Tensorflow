@@ -10,5 +10,5 @@
 
 ## Screenshot
 
-![Demo](demo.png)
+![Sample](demo.png)
 
