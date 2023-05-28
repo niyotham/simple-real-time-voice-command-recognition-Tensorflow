@@ -12,4 +12,4 @@ A simple real time voice command recognition model using pretrained TensorFlow m
 
 ## Screenshot
 
-![Sample]([demo.png](https://github.com/niyotham/simple-real-time-voice-command-recognition-Tensorflow/blob/main/voice-command-recognition/image/voice.png))
+![Sample]([demo.png](https://github.com/niyotham/simple-real-time-voice-command-recognition-Tensorflow/blob/main/voice-command-recognition/image/voice.png)
